@@ -1,0 +1,17 @@
+---
+title: Extended information
+output: html_document
+author: Jenn Asimit, Chris Wallace
+date: '`r format(Sys.Date(), "%d %B %Y")`'
+---
+
+This table gives links to results of stochastic search fine mapping for individual diseases (GUESSFM) and multiple diseases, either across UK only samples or UK + international samples.
+
+The table is searchable by gene and disease - use the search bar below.
+
+```{r,echo=FALSE}
+library(htmlwidgets)
+library(DT)
+load("m.RData")
+datatable(m,escape=FALSE,filter="top")
+```
