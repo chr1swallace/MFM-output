@@ -1,0 +1,149 @@
+SWinSS:
+  10p-6030000-6220000:
+    T1D:
+      Region: 10p-6030000-6220000
+      Disease: T1D
+  13q-100036418-100108807:
+    iCEL:
+      Region: 13q-100036418-100108807
+      Disease: iCEL
+  14q-69168821-69318062:
+    JIA:
+      Region: 14q-69168821-69318062
+      Disease: JIA
+  18p-12738413-12924117:
+    T1D:
+      Region: 18p-12738413-12924117
+      Disease: T1D
+  19p-10396336-10628468:
+    T1D:
+      Region: 19p-10396336-10628468
+      Disease: T1D
+  1q-172650685-172940450:
+    CEL:
+      Region: 1q-172650685-172940450
+      Disease: CEL
+    iCEL:
+      Region: 1q-172650685-172940450
+      Disease: iCEL
+  1q-206802440-207032751:
+    T1D:
+      Region: 1q-206802440-207032751
+      Disease: T1D
+  21q-43810084-43887145:
+    T1D:
+      Region: 21q-43810084-43887145
+      Disease: T1D
+  2q-191873553-192007734:
+    iRA:
+      Region: 2q-191873553-192007734
+      Disease: iRA
+  2q-204446380-204816382:
+    iCEL:
+      Region: 2q-204446380-204816382
+      Disease: iCEL
+  3q-159586299-159754507:
+    iCEL:
+      Region: 3q-159586299-159754507
+      Disease: iCEL
+  4q-122973062-123565302:
+    iCEL:
+      Region: 4q-122973062-123565302
+      Disease: iCEL
+  6q-127952182-128340790:
+    iCEL:
+      Region: 6q-127952182-128340790
+      Disease: iCEL
+  6q-137882875-138275085:
+    iCEL:
+      Region: 6q-137882875-138275085
+      Disease: iCEL
+    iRA:
+      Region: 6q-137882875-138275085
+      Disease: iRA
+  6q-159322326-159541830:
+    CEL:
+      Region: 6q-159322326-159541830
+      Disease: CEL
+SWvsSS:
+  10p-6030000-6220000 (IL2RA):
+    ATD:
+      Region: 10p-6030000-6220000 (IL2RA)
+      Disease: ATD
+  14q-101290463-101328739 (MEG3):
+    T1D:
+      Region: 14q-101290463-101328739 (MEG3)
+      Disease: T1D
+  15q-67414055-67469568:
+    iCEL:
+      Region: 15q-67414055-67469568
+      Disease: iCEL
+  20p-1497197-1689461 (SIRPD/SIRPB1):
+    T1D:
+      Region: 20p-1497197-1689461 (SIRPD/SIRPB1)
+      Disease: T1D
+  2q-100544954-101038647:
+    iRA:
+      Region: 2q-100544954-101038647
+      Disease: iRA
+  2q-204446380-204816382 (CTLA4):
+    iRA:
+      Region: 2q-204446380-204816382 (CTLA4)
+      Disease: iRA
+    T1D:
+      Region: 2q-204446380-204816382 (CTLA4)
+      Disease: T1D
+  2q-231076289-231235886:
+    iCEL:
+      Region: 2q-231076289-231235886
+      Disease: iCEL
+  4q-122973062-123565302 (IL2/IL21):
+    T1D:
+      Region: 4q-122973062-123565302 (IL2/IL21)
+      Disease: T1D
+  7p-50246236-50365063:
+    T1D:
+      Region: 7p-50246236-50365063
+      Disease: T1D
+  7p-50366637-50694384:
+    T1D:
+      Region: 7p-50366637-50694384
+      Disease: T1D
+SSvsMFM:
+  10p-6030000-6220000 (IL2RA):
+    MS:
+      Region: 10p-6030000-6220000 (IL2RA)
+      Disease: MS
+  16p-11017058-11307024 (DEXI):
+    MS:
+      Region: 16p-11017058-11307024 (DEXI)
+      Disease: MS
+  18p-12738413-12924117 (PTPN2; JIA, AA, CEL, IBD, CD):
+    CEL:
+      Region: 18p-12738413-12924117 (PTPN2; JIA, AA, CEL, IBD, CD)
+      Disease: CEL
+    iCEL:
+      Region: 18p-12738413-12924117 (PTPN2; JIA, AA, CEL, IBD, CD)
+      Disease: iCEL
+  1p-2406887-2785671:
+    iRA:
+      Region: 1p-2406887-2785671
+      Disease: iRA
+    RA:
+      Region: 1p-2406887-2785671
+      Disease: RA
+  2q-204446380-204816382 (CTLA4):
+    iCEL:
+      Region: 2q-204446380-204816382 (CTLA4)
+      Disease: iCEL
+  6q-90806835-91039808 (BACH2; celiac):
+    iRA:
+      Region: 6q-90806835-91039808 (BACH2; celiac)
+      Disease: iRA
+    RA:
+      Region: 6q-90806835-91039808 (BACH2; celiac)
+      Disease: RA
+  7p-37363978-37440453:
+    MS:
+      Region: 7p-37363978-37440453
+      Disease: MS

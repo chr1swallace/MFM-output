@@ -9,6 +9,27 @@ This table gives links to results of stochastic search fine mapping for individu
 
 The table is searchable by gene and disease - use the search bar below.
 
+## Genes
+Note that genes are listed if they overlap the region specified, to aid orientation, not to indicate any functional link to disease.
+
+## Diseases:
+* ATD autoimmune thyroid disease
+* CEL celiac disease (UK samples only)
+* iCEL celiac disease (UK + international samples)
+* JIA juvenile arthritis
+* MS multiple sclerosis
+* RA rheumatoid arthritis (UK samples only)
+* iRA rheumatoid arthritis (UK + international samples)
+* T1D type 1 diabetes
+
+## Flags:
+Regions where results fall into one of three specific groups discussed in the manuscript are Flagged:
+
+1. Stepwise search results nested within GUESSFM stochastic search results
+2. Stepwise and GUESSFM stochastic search results disagree
+3. GUESSFM and MFM stochastic search results disagree
+
+
 ```{r,echo=FALSE}
 library(htmlwidgets)
 library(DT)
